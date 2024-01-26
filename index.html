@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lernwebseite</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+  <div id="app">
+    <p class="count" v-if="countup <= 7">{{ countup }}</p>
+    <button @click="increaseCountup" :style="{ backgroundImage: 'url(' + backgroundImagePath + ')' }" :disabled="countup > 7" class="heartbeat"></button>
+    <p class="mot" v-if="motivationalSentence">{{ motivationalSentence }}</p>
+  </div>
+  <div>
+    <p  class="text">
+      7 Klicks, 7 Lernerfolge
+    </p>
+  </div>
+  <script src="lib/js/main.js"></script>
+  <script src="lib/js/vue.js"></script>
+
+</body>
+
+</html>

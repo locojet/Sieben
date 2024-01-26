@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 300 300" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(445.5 -17.25 16.8105 445.5 151.813 151.901)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="1">
+<stop offset="0.183333" stop-color="#ca645f"/>
+<stop offset="0.704167" stop-color="#000000"/>
+</radialGradient>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(33.4955 0 0 33.4955 87.103 115.56)" gradientUnits="userSpaceOnUse" id="RadialGradient_2" r="1">
+<stop offset="0.554167" stop-color="#ca645f"/>
+<stop offset="1" stop-color="#000000"/>
+</radialGradient>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(33.4955 0 0 33.4955 141.431 211.098)" gradientUnits="userSpaceOnUse" id="RadialGradient_3" r="1">
+<stop offset="0.554167" stop-color="#ca645f"/>
+<stop offset="1" stop-color="#000000"/>
+</radialGradient>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(33.4955 0 0 33.4955 205.526 116.64)" gradientUnits="userSpaceOnUse" id="RadialGradient_4" r="1">
+<stop offset="0.554167" stop-color="#ca645f"/>
+<stop offset="1" stop-color="#000000"/>
+</radialGradient>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(12.6629 0 0 12.6629 107.936 115.56)" gradientUnits="userSpaceOnUse" id="RadialGradient_5" r="1">
+<stop offset="0.554167" stop-color="#ca645f"/>
+<stop offset="1" stop-color="#000000"/>
+</radialGradient>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(12.6629 0 0 12.6629 226.358 116.64)" gradientUnits="userSpaceOnUse" id="RadialGradient_6" r="1">
+<stop offset="0.554167" stop-color="#ca645f"/>
+<stop offset="1" stop-color="#000000"/>
+</radialGradient>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(672.858 -49.6181 48.354 672.858 153.954 149.019)" gradientUnits="userSpaceOnUse" id="RadialGradient_7" r="1">
+<stop offset="0.1625" stop-color="#db7c29"/>
+<stop offset="0.560417" stop-color="#000000"/>
+</radialGradient>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(597 -76.5 74.551 597 163.813 145.901)" gradientUnits="userSpaceOnUse" id="RadialGradient_8" r="1">
+<stop offset="0" stop-color="#e1d01a"/>
+<stop offset="1" stop-color="#000000"/>
+</radialGradient>
+<radialGradient cx="0" cy="0" gradientTransform="matrix(410.375 14.1788 -13.8176 410.375 107.778 132.024)" gradientUnits="userSpaceOnUse" id="RadialGradient_9" r="1">
+<stop offset="0" stop-color="#85c051"/>
+<stop offset="1" stop-color="#000000"/>
+</radialGradient>
+</defs>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M1.42109e-14 150C1.42109e-14 67.1573 67.1573 7.81597e-14 150 7.81597e-14C232.843 7.81597e-14 300 67.1573 300 150C300 232.843 232.843 300 150 300C67.1573 300 1.42109e-14 232.843 1.42109e-14 150Z" fill="url(#RadialGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Oval 1"/>
+<path d="M53.6075 126.41C53.6075 112.111 110.614 101.142 120.598 105.793" fill="url(#RadialGradient_2)" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Kurve 3"/>
+<path d="M107.936 221.948C107.936 207.649 164.942 196.68 174.927 201.332" fill="url(#RadialGradient_3)" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Kurve 2"/>
+<path d="M172.03 127.49C172.03 113.191 229.037 102.222 239.021 106.874" fill="url(#RadialGradient_4)" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Kurve 1"/>
+<path d="M95.2726 115.56C95.2726 112.564 100.942 110.135 107.936 110.135C114.929 110.135 120.598 112.564 120.598 115.56C120.598 118.556 114.929 120.985 107.936 120.985C100.942 120.985 95.2726 118.556 95.2726 115.56Z" fill="url(#RadialGradient_5)" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Oval 3"/>
+<path d="M213.695 116.64C213.695 113.644 219.365 111.215 226.358 111.215C233.352 111.215 239.021 113.644 239.021 116.64C239.021 119.636 233.352 122.065 226.358 122.065C219.365 122.065 213.695 119.636 213.695 116.64Z" fill="url(#RadialGradient_6)" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Oval 2"/>
+</g>
+<g id="Ebene-1-kopieren" vectornator:layerName="Ebene 1 kopieren">
+<path d="M1.42109e-14 150C1.42109e-14 67.1573 67.1573 7.81597e-14 150 7.81597e-14C232.843 7.81597e-14 300 67.1573 300 150C300 232.843 232.843 300 150 300C67.1573 300 1.42109e-14 232.843 1.42109e-14 150Z" fill="url(#RadialGradient_7)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Oval 1"/>
+<path d="M97.2597 215.182C96.8655 214.985 101.748 214.479 102.878 214.317C105.191 213.987 107.477 213.509 109.793 213.237C117.83 212.291 125.931 211.54 133.997 210.644C155.616 208.241 177.39 207.272 198.827 204.593C200.673 204.362 216.115 203.394 216.115 203.945" fill="#ff9233" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Kurve 1"/>
+<path d="M82.5227 116.64C82.5227 113.644 88.1921 111.215 95.1857 111.215C102.179 111.215 107.849 113.644 107.849 116.64C107.849 119.636 102.179 122.065 95.1857 122.065C88.1921 122.065 82.5227 119.636 82.5227 116.64Z" fill="#ca645f" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Oval 3"/>
+<path d="M199.001 116.64C199.001 113.644 204.67 111.215 211.664 111.215C218.657 111.215 224.326 113.644 224.326 116.64C224.326 119.636 218.657 122.065 211.664 122.065C204.67 122.065 199.001 119.636 199.001 116.64Z" fill="#ca645f" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Oval 2"/>
+</g>
+<clipPath id="ArtboardFrame">
+<rect height="300" width="300" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Ebene-1-kopieren-kopieren" vectornator:layerName="Ebene 1 kopieren kopieren">
+<path d="M1.42109e-14 150C1.42109e-14 67.1573 67.1573 7.81597e-14 150 7.81597e-14C232.843 7.81597e-14 300 67.1573 300 150C300 232.843 232.843 300 150 300C67.1573 300 1.42109e-14 232.843 1.42109e-14 150Z" fill="url(#RadialGradient_8)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Oval 1"/>
+<path d="M82.5227 118.167C82.5227 114.328 88.1921 111.215 95.1857 111.215C102.179 111.215 107.849 114.328 107.849 118.167C107.849 122.007 102.179 125.119 95.1857 125.119C88.1921 125.119 82.5227 122.007 82.5227 118.167Z" fill="#e1d01a" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Oval 3"/>
+<path d="M199.001 125.119C199.001 117.44 204.67 111.215 211.664 111.215C218.657 111.215 224.326 117.44 224.326 125.119C224.326 132.798 218.657 139.023 211.664 139.023C204.67 139.023 199.001 132.798 199.001 125.119Z" fill="#e1d01a" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Oval 2"/>
+<path d="M145.717 229.345C145.717 227.928 146.186 229.503 146.997 229.665C152.635 230.793 159.625 229.189 164.915 227.425C176.78 223.47 200.943 216.482 207.15 204.068" fill="#e1d01a" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Kurve 1"/>
+<path d="M177.838 512.659C177.838 506.869 177.838 501.079 177.838 495.29" fill="#e1d01a" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Kurve 2"/>
+</g>
+<g id="Ebene-1-kopieren-kopieren-kopieren" vectornator:layerName="Ebene 1 kopieren kopieren kopieren" visibility="hidden">
+<path d="M1.42109e-14 150C1.42109e-14 67.1573 67.1573 7.81597e-14 150 7.81597e-14C232.843 7.81597e-14 300 67.1573 300 150C300 232.843 232.843 300 150 300C67.1573 300 1.42109e-14 232.843 1.42109e-14 150Z" fill="url(#RadialGradient_9)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Oval 1"/>
+<g opacity="1" vectornator:layerName="Gruppieren 1">
+<path d="M169.683 152.641C169.683 148.383 162.208 115.149 169.683 112.598C175.688 110.549 211.676 111.383 220.157 111.383C229.725 111.383 256.966 114.976 256.966 114.976C256.966 114.976 255.48 134.917 255.48 138.737C255.48 146.416 239.196 163.618 220.157 163.618C201.118 163.618 169.683 160.32 169.683 152.641Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Oval 3"/>
+</g>
+<path d="M137.64 152.641C137.64 148.383 145.2 115.149 137.64 112.598C131.568 110.549 95.1733 111.383 86.5962 111.383C76.9203 111.383 49.3712 114.976 49.3712 114.976C49.3712 114.976 50.8739 134.917 50.8739 138.737C50.8739 146.416 67.342 163.618 86.5962 163.618C105.85 163.618 137.64 160.32 137.64 152.641Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Oval 2"/>
+<path d="M145.717 229.345C145.717 227.928 146.186 229.503 146.997 229.665C152.635 230.793 159.625 229.189 164.915 227.425C176.78 223.47 200.943 216.482 207.15 204.068" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Kurve 1"/>
+</g>
+</svg>
