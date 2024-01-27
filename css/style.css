@@ -45,6 +45,7 @@ body {
     color: white;
     font-size: 2rem;
     color: rgb(239, 236, 37)5, 163, 71;
+   
   }
 
   .heartbeat {
@@ -115,3 +116,6 @@ body {
   }
 }
 
+.text{
+  text-align: center;
+}
